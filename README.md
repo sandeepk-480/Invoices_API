@@ -1,20 +1,20 @@
-<h3>Invoices API</h3>
+<h2>Invoices API</h2>
 
-<b>Technology Used: Django Rest Framework.<b><br><br>
+<h3>Technology Used: Django Rest Framework.<h3><br>
 
 <b><u>API Endpoints Present in the project: </u></b>
 
-<b>To add Invoice</b>- <br>
+To add Invoice- <br>
 http://127.0.0.1:8000/invoices/
 
-<b>To update/delete invoice-</b> <br>
+To update/delete invoice- <br>
 http://127.0.0.1:8000/invoices/<int:id>/ <br>
 example: http://127.0.0.1:8000/invoices/1/ <br><br>
 
-<b>To add Invoice Detail-</b><br>
+To add Invoice Detail-<br>
 http://127.0.0.1:8000/invoices/detail/ <br>
 
-<b>To update/delete invoice Detail-</b><br>
+To update/delete invoice Detail-<br>
 http://127.0.0.1:8000/invoices/detail/<int:id>/ <br>
 example: http://127.0.0.1:8000/invoices/detail/1/ <br>
 
