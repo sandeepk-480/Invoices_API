@@ -2,7 +2,7 @@
 
 <b>Technology Used: Django Rest Framework.<b><br><br>
 
-<b>API Endpoints Present in the project: </b>
+<b><u>API Endpoints Present in the project: </u></b>
 
 <b>To add Invoice</b>- <br>
 http://127.0.0.1:8000/invoices/
