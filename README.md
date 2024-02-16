@@ -1,6 +1,6 @@
 <h3>Invoices API</h3>
 
-<b>Technology Used: Django Rest Framework.<b><br>
+<b>Technology Used: Django Rest Framework.<b><br><br>
 
 <b>API Endpoints Present in the project: </b>
 
@@ -19,7 +19,7 @@ http://127.0.0.1:8000/invoices/detail/<int:id>/ <br>
 example: http://127.0.0.1:8000/invoices/detail/1/ <br>
 
 
-<h4>Created Test Cases for the projects in the app dir, text.py.<h4><br><br><br>
+<h4>Created Test Cases for the projects in the app dir, text.py.<h4><br>
 
 
 <h3>How to use it???</h3>
