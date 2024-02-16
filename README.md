@@ -1,9 +1,9 @@
-<h3>Invoices API</h3> <br><br>
+<h3>Invoices API</h3>
 
 <b>Technology Used: Django Rest Framework.<b><br><br><br>
 
 
-<b>API Endpoints Present in the project: </b><br><br>
+<b>API Endpoints Present in the project: </b>
 
 <b>To add Invoice</b>- <br>
 http://127.0.0.1:8000/invoices/
