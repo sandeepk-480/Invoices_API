@@ -1,6 +1,6 @@
-<h2>Invoices API</h2>
+<h3>Invoices API</h3>
 
-<h3>Technology Used: Django Rest Framework.<h3><br>
+<b>Technology Used: Django Rest Framework.<b><br><br>
 
 <b><u>API Endpoints Present in the project: </u></b>
 
