@@ -8,14 +8,14 @@ To add Invoice- <br>
 http://127.0.0.1:8000/invoices/
 
 To update/delete invoice- <br>
-http://127.0.0.1:8000/invoices/<int:id>/ <br>
+http://127.0.0.1:8000/invoices/id/ <br>
 example: http://127.0.0.1:8000/invoices/1/ <br><br>
 
 To add Invoice Detail-<br>
 http://127.0.0.1:8000/invoices/detail/ <br>
 
 To update/delete invoice Detail-<br>
-http://127.0.0.1:8000/invoices/detail/<int:id>/ <br>
+http://127.0.0.1:8000/invoices/detail/id/ <br>
 example: http://127.0.0.1:8000/invoices/detail/1/ <br>
 
 
