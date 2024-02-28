@@ -28,6 +28,6 @@ example: http://127.0.0.1:8000/invoices/detail/1/ <br>
 3. Write this in your editor terminal. <br>
  - git clone https://github.com/sandeepk-480/Invoices_API.git <br>
  - cd Invoices_API <br>
- - pip install req.txt <br>
+ - pip install -r req.txt <br>
 4. python manage.py runserver <br>
 5. Now use the Api endpoints provided. <br>
